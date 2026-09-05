@@ -4,6 +4,14 @@ A desktop chat application built in Python as a three-person University of Cape 
 
 The project demonstrates socket programming, client-server communication, multithreading, and desktop GUI development.
 
+## Screenshots
+
+### Connect Screen
+![Connect screen](screenshots/connect-screen.png)
+
+### Main Chat Window
+![Main chat window](screenshots/chat-window.png)
+
 ## Features
 
 - Username registration and online user discovery
