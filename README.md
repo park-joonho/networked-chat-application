@@ -4,6 +4,14 @@ A desktop chat application built in Python as a three-person University of Cape 
 
 The project demonstrates socket programming, client-server communication, multithreading, and desktop GUI development.
 
+## Contributors
+
+This project was developed as a three-person group project at the University of Cape Town.
+
+- Joonho Park
+- Jordan Rix
+- Dennis Zhu
+
 ## Screenshots
 
 ### Connect Screen
